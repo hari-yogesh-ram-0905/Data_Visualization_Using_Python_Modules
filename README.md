@@ -156,7 +156,7 @@ Follow the terminal prompts to:
 
 ## Author
 
-**Hari Yogesh Ram B**\
+**Hari Yogesh Ram B**
 
 
 ---
