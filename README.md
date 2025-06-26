@@ -158,13 +158,6 @@ Follow the terminal prompts to:
 
 **HARI YOGESH RAM B**
 
-
----
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---
 
 ## Note
